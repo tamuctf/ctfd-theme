@@ -1,0 +1,13 @@
+/* HACKED - 400 - latin */
+@font-face {
+  font-family: 'HACKED';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../../fonts/HACKED/HACKED.eot'); /* IE9 Compat Modes */
+  src: local('HACKED Medium'), local('HACKED-Medium'),
+       url('../../fonts/HACKED/HACKED.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../../fonts/HACKED/HACKED.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../../fonts/HACKED/HACKED.woff') format('woff'), /* Modern Browsers */
+       url('../../fonts/HACKED/HACKED.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../../fonts/HACKED/HACKED.svg#HACKED') format('svg'); /* Legacy iOS */
+}

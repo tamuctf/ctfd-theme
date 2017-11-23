@@ -1,0 +1,13 @@
+/* Open Sans-regular - latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../../fonts/OpenSans/OpenSans-Regular.eot'); /* IE9 Compat Modes */
+  src: local('Open Sans Regular'), local('OpenSans-Regular'),
+       url('../../fonts/OpenSans/OpenSans-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../../fonts/OpenSans/OpenSans-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../../fonts/OpenSans/OpenSans-Regular.woff') format('woff'), /* Modern Browsers */
+       url('../../fonts/OpenSans/OpenSans-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../../fonts/OpenSans/OpenSans-Regular.svg#OpenSans') format('svg'); /* Legacy iOS */
+}
